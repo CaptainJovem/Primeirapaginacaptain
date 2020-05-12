@@ -1,0 +1,33 @@
+/body{ 
+  background-size:auto 100vh;
+
+  
+}
+  .menu{
+    background-color:none;
+    color:pink
+    
+  }
+  
+.menu li{
+  list-style:none;
+}
+.menu ul{
+ 
+  display:flex;
+  justify-content:space-around
+    
+  
+}
+.site-subtitle,
+.site-title {
+ color: Red;
+  text-align:center;
+  }
+.site-subtitle{
+  color:red
+}
+.post{
+  color:red
+  
+}
